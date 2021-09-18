@@ -1,7 +1,9 @@
 Hi there 👋
 
 🔭 I’m a back end software developer | creator | college athletic | rapper
+
 🎖 Completed Computer Science Degree in San Jose State University
+
 🌃 I currently live in San Francisco, Silicon Valley. 
 🌱 Learning Fullstack Web Development.
 👯 I’m looking to collaborate on projects at Teladoc Health. 
@@ -14,4 +16,4 @@ Hi there 👋
 💬 Ask me about anything https://dev.to/akatridoan1998 
 💭 Let's get to know each other https://twitter.com/akatridoan1998
 
-🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
+🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 
