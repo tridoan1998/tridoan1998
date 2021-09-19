@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there, I'm Tri Doan 👋
 
 🔭 I’m a back end software developer 💻| creator 🎨| college athletic 🏃🏻| rapper 🎼
 
@@ -18,13 +18,15 @@ Hi there 👋
 
 😄 Pronouns: Tree
 
-⚡️ Fun fact: I like playing badminton 🏆, rap 🎤, drinking 🍷, and making new friends 👨‍👨‍👧‍👦
+⚡️ Fun fact: I like playing badminton 🏸, rap 🎤, drinking 🍷, and making new friends 👨‍👨‍👧‍👦
 
 👀 I talk about all things tech related here https://medium.com/@tri.doan_17654
 
 💬 Ask me about anything https://dev.to/akatridoan1998 
 
 💭 Let's get to know each other https://www.linkedin.com/in/tridoan4086449160/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridoan1998)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 
