@@ -27,6 +27,10 @@ Hi there, I'm Tri Doan 👋
 💭 Let's get to know each other https://www.linkedin.com/in/tridoan4086449160/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridoan1998)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridoan1998&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridoan1998&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridoan1998&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridoan1998)](https://github.com/tridoan1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridoan1998&layout=compact)](https://github.com/tridoan1998/github-readme-stats)
 
 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 
