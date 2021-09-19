@@ -24,7 +24,7 @@ Hi there 👋
 
 💬 Ask me about anything https://dev.to/akatridoan1998 
 
-💭 Let's get to know each other https://twitter.com/akatridoan1998
+💭 Let's get to know each other https://www.linkedin.com/in/tridoan4086449160/
 
 
 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 🌟 🍀 
