@@ -1,5 +1,6 @@
-Hi there, I'm Tri Doan 👋
+👱🏻‍♂️ Tri Doan |👨🏼‍💻 Software Engineer | 🌏 California, USA
 
+## About me:
 🔭 I’m a back end software developer 💻| creator 🎨| college athletic 🏃🏻| rapper 🎼
 
 🎓 Completed Computer Science Degree in San Jose State University
