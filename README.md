@@ -3,13 +3,13 @@
 ## About me:
 🔭 I’m a back end software developer 💻| creator 🎨| college athletic 🏃🏻| rapper 🎼
 
-🎓 Completed Computer Science Degree in San Jose State University
+🎓 Completed Computer Science Degree at San Jose State University
 
 🌃 I currently live in San Francisco, Silicon Valley
 
-🌱 Learning full stack Web Development
+🌱 Learning full stack Web Development and everything related to software developement
 
-👯 I’m looking to collaborate on projects at Teladoc Health
+👯 I’m looking to collaborate on projects at Teladoc Health developing great software to connect patients with doctors virtually through phone app
 
 🤔 I’m looking for help with technical interview tips, especially Leetcode and System Design
 
