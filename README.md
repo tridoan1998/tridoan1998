@@ -1,4 +1,4 @@
-                                     👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Software Engineer | 🌏 California, USA
+                                     👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Software Engineer | 🌏 San Francisco, California, USA
 
 ## About me:
 🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
