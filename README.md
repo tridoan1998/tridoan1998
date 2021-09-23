@@ -1,7 +1,7 @@
                                      👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Software Engineer | 🌏 California, USA
 
 ## About me:
-🔭 I’m a back end software developer 💻| creator 🎨| college athletic 🏃🏻| rapper 🎼
+🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
 🎓 Completed Computer Science Degree at San Jose State University
 
