@@ -7,7 +7,7 @@
 
 🌃 I currently live in San Francisco, Silicon Valley
 
-🌱 Learning full stack Web Development and everything related to software developement
+🌱 Learning full stack Web Development and everything related to software developement, learning Golang at the moment. 
 
 👯 I’m looking to collaborate on projects at Teladoc Health developing great software to connect patients with doctors virtually through phone app
 
