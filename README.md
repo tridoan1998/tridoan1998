@@ -1,5 +1,7 @@
                                      👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Software Engineer | 🌏 San Francisco, California, USA
 
+![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
+
 ## About me:
 🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
