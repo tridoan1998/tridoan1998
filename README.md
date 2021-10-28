@@ -5,13 +5,15 @@
 ## About me:
 🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
+⚡️ I'm currentlty intern at Skipli for front end developer role using React Redux, Python, Firebase, HTML, CSS, REST API 
+
 🎓 Completed Computer Science Degree at San Jose State University
 
 🌃 I currently live in San Francisco, Silicon Valley
 
 🌱 Learning full stack Web Development and everything related to software developement, learning Golang at the moment. 
 
-👯 I’m looking to collaborate on projects at Teladoc Health developing great software to connect patients with doctors virtually through phone app
+👯 I’m looking to collaborate on projects developing great software to connect patients with doctors virtually through phone app
 
 🤔 I’m looking for help with technical interview tips, especially Leetcode and System Design
 
