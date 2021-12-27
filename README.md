@@ -5,13 +5,13 @@
 ## About me:
 🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
-⚡️ I'm currentlty intern at Skipli for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS, REST API 
+⚡️ Previously interned at Skipli for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS, REST API
 
-🎓 San Jose State University Alumni
+🎓 San Jose State University Alumni Fall 2021
 
 🌃 I currently live in San Francisco, California. 
 
-🌱 Learning full stack Web Development and everything related to software developement, learning Golang at the moment. 
+🌱 Learning full stack Web Development and everything related to software developement. 
 
 👯 I’m looking to collaborate on projects developing great software to connect patients with doctors virtually through phone app
 
