@@ -5,7 +5,7 @@
 ## About me:
 🔭 I’m a Full Stack Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
-⚡️ Previously interned at Skipli for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS, REST API
+⚡️ Previously interned at Skipli for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS. 10 weeks training for an Udemy course learing for future projects. 
 
 🎓 San Jose State University Alumni Fall 2021
 
