@@ -29,8 +29,6 @@
 
 💬 Ask me about anything https://dev.to/akatridoan1998 
 
-💭 Let's get to know each other https://www.linkedin.com/in/tridoan4086449160/
-
 ## Connect with me:
 <p align="center">
  <a href="https://www.linkedin.com/in/tridoan4086449160/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
