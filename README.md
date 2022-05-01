@@ -5,7 +5,7 @@
 ## About me:
 🔭 I’m a Junior Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
-⚡️ Previously interned at a small startup for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS. 10 weeks training for future projects. 
+⚡️ Currently learning infrastructure technologies and apply it to build highly available and scalable infrastructures for companies to generate profits. 
 
 🎓 San Jose State University Alumni Fall 2021
 
