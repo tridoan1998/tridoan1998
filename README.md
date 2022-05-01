@@ -5,11 +5,11 @@
 ## About me:
 🔭 I’m a Junior Software Developer 💻| Creator 🎨| College Athletic 🏃🏻| Rapper 🎼
 
-⚡️ Previously interned at Skipli for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS. 10 weeks training for an Udemy course learing for future projects. 
+⚡️ Previously interned at a small startup for front end developer role using ReactJS, Vanilla Javascript, Python, Firebase, HTML, CSS. 10 weeks training for future projects. 
 
 🎓 San Jose State University Alumni Fall 2021
 
-🌃 I currently live in San Francisco, California. 
+🌃 I currently locate in San Francisco, California. 
 
 🌱 Learning full stack Web Development and everything related to software developement. 
 
