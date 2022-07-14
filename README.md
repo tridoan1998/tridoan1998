@@ -5,11 +5,11 @@
 ## About me:
 🔭 I’m a Junior Software Developer 💻| High School Badminton Player 🏃
 
-⚡️ Currently learning infrastructure technologies and apply it to build highly available and scalable infrastructures for companies to generate profits. 
+⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
 
 🎓 San Jose State University Alumni Fall 2021
 
-🌃 I currently locate in San Francisco, California.
+🌃 I live in a suburb near San Francisco, Cali. 
 
 🌱 Learning full stack Web Development and everything related to software developement because I still don't understand lots of things in tech.
 
@@ -19,7 +19,7 @@
 
 💬 Ask me about anything
 
-📫 How to reach me: tridoan1998@gmail.com
+📫 I usually go to Raven Bar in San Franciso and near by bars, I wear mostly Hawaiian style shirt, come join me, I will be your DD. 
 
 😄 Pronouns: Tree (My pronounciation is a little bit different but I don't think I will change my first name to anything else)
 
