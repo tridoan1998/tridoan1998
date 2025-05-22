@@ -1,9 +1,9 @@
-                             👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Junior DevOps Developer | 🌏 San Francisco, California, USA
+                             👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Junior Front-End Developer | 🌏 San Francisco, California, USA
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
 ## About me:
-🔭 I’m a Junior Software Developer 💻| High School Badminton Player 🏃
+🔭 I’m a Junior Front-End Software Developer 💻| High School Badminton Player 🏃
 
 ⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
 
@@ -11,7 +11,7 @@
 
 🌃 I live in a suburb near San Francisco, Cali. 
 
-🌱 Learning full stack Web Development and everything related to software developement because I still don't understand lots of things in tech.
+🌱 Learning Web Development and everything related to software developement because I still don't understand lots of things in tech.
 
 👯 I’m looking to collaborate on projects that help develop my skills and get to know more engineers with the same hobbies. 
 
@@ -19,11 +19,7 @@
 
 💬 Ask me about anything
 
-📫 I usually go to Raven Bar in San Franciso and near by bars, I wear mostly Hawaiian style shirt, come join me, I will be your DD. 
-
-😄 Pronouns: Tree (My pronounciation is a little bit different but I don't think I will change my first name to anything else)
-
-⚡️ Fun fact: I like playing badminton 🏸, rap 🎤, drinking 🍷, and making new friends friends👨‍👨‍👧‍👦
+⚡️ Fun fact: I like playing badminton 🏸, and making new friends👨‍👨‍👧‍👦
 
 👀 I talk about all things tech related here https://medium.com/@tri.doan_17654
 
