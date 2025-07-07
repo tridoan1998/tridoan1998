@@ -1,9 +1,9 @@
-                             👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Junior Front-End Developer | 🌏 San Francisco, California, USA
+                             👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Front-End Developer | 🌏 San Francisco, California, USA
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
 ## About me:
-🔭 I’m a Junior Front-End Software Developer 💻| High School Badminton Player 🏃
+🔭 I’m a Front-End Software Developer 💻| High School Badminton Player 🏃
 
 ⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
 
