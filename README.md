@@ -7,9 +7,9 @@
 
 ⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
 
-🎓 San Jose State University Alumni Fall 2021
+🎓 San Jose State University Alumni.
 
-🌃 I live in a suburb near San Francisco, Cali. 
+🌃 I live in San Francisco, Cali. 
 
 🌱 Learning Web Development and everything related to software developement because I still don't understand lots of things in tech.
 
