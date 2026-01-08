@@ -1,4 +1,4 @@
-                             👱🏻‍♂️ Taylor Doan | 👨🏼‍💻 Front-End Developer | 🌏 San Francisco, California, USA
+                             👱🏻‍♂️ Tri Doan | 👨🏼‍💻 Front-End Developer
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
@@ -7,9 +7,7 @@
 
 ⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
 
-🎓 San Jose State University Alumni.
-
-🌃 I live in San Francisco, Cali. 
+🎓 San Jose State University Alumni. 
 
 🌱 Learning Web Development and everything related to software developement because I still don't understand lots of things in tech.
 
