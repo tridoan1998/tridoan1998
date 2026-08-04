@@ -3,21 +3,9 @@
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
 ## About me:
-🔭 I’m a Front-End Software Developer 💻| Badminton Player 🏃
-
-⚡️ Currently learning and keep up with technologies and finding a balance between work and family/friend/entertainment/dating/traveling... 
+🔭 I’m a Research Analyst for Public Sector 💻| Badminton Player 🏃
 
 🎓 San Jose State University Alumni. 
-
-🌱 Learning Web Development and everything related to software developement because I still don't understand lots of things in tech.
-
-👯 I’m looking to collaborate on projects that help develop my skills and get to know more engineers with the same hobbies. 
-
-🤔 I’m looking for help with technical interview tips, especially Leetcode and System Design because these are always challenging. 
-
-💬 Ask me about anything
-
-⚡️ Fun fact: I like playing badminton 🏸, and making new friends👨‍👨‍👧‍👦
 
 👀 I talk about all things tech related here https://medium.com/@tri.doan_17654
 
