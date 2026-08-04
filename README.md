@@ -3,7 +3,7 @@
 ## About me:
 🔭 I’m a Research Analyst for Public Sector 💻 | Prior Web Developer at FinTech | Badminton Player 🏃
 
-🎓 San Jose State University Alumni. 
+🎓 San Jose State University Alumni
 
 👀 I talk about all things tech related here https://medium.com/@tri.doan_17654
 
